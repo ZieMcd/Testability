@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uVUNkCNbKPo0NSt/jWMYLcXWGcejuRwQQfxb6TivJV/j/6r6J/gnTaOXIG/FtSaR8XAy5GBhpalx/8VcLreLHA==",
+  "success": true,
+  "projectFilePath": "/home/zie/Projects/spikes/C#/Mosh-Tutorial/intermediate/Interfaces/Testability2/Testability2/Testability2.csproj",
+  "expectedPackageFiles": [
+    "/home/zie/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.2/microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
