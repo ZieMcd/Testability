@@ -1,4 +1,4 @@
-Using Test unit to test a project with a interface, I use the a ordering type program as an example
+Using Test unit to test a project with a interface, I use the an ordering type program as an example
 
 The this is part the C# Intermediate course by Mosh on udamy.
 
